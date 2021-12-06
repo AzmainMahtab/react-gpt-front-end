@@ -1,11 +1,12 @@
 import React from 'react'
+import './blog.css'
 
-const App = () => {
+const Blog = () => {
     return (
         <div>
-            <h1>GPT-3</h1>
+            
         </div>
     )
 }
 
-export default App
+export default Blog
